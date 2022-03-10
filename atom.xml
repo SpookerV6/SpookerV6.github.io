@@ -1,45 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SpookerV6.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-03-10T07:11:00.137Z</updated>
+    <title>Lenger的Gallery</title>
+    <updated>2022-03-10T08:06:05.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SpookerV6.github.io"/>
     <link rel="self" href="https://SpookerV6.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>这里是原图
+https://cloud.189.cn/web/share?code=Bz63Ajj2MbAn（访问码：5qpp）</subtitle>
     <logo>https://SpookerV6.github.io/images/avatar.png</logo>
     <icon>https://SpookerV6.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, Lenger的Gallery</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://SpookerV6.github.io/post/hello-gridea/</id>
-        <link href="https://SpookerV6.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[公司的无人周末]]></title>
+        <id>https://SpookerV6.github.io/post/gong-si-de-wu-ren-zhou-mo/</id>
+        <link href="https://SpookerV6.github.io/post/gong-si-de-wu-ren-zhou-mo/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2022-03-10T07:43:40.000Z</updated>
+        <content type="html"><![CDATA[<p>by SONY-NEX5N using Fujicolor f10</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实习生公寓窗边-夜晚其二]]></title>
+        <id>https://SpookerV6.github.io/post/shi-xi-sheng-gong-yu-chuang-bian-ye-wan-qi-2/</id>
+        <link href="https://SpookerV6.github.io/post/shi-xi-sheng-gong-yu-chuang-bian-ye-wan-qi-2/">
+        </link>
+        <updated>2022-03-10T07:41:11.000Z</updated>
+        <content type="html"><![CDATA[<p>by iPhone XR from Fimo Camera</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实习生公寓窗边-夜晚其一]]></title>
+        <id>https://SpookerV6.github.io/post/shi-xi-sheng-gong-yu-chuang-bian-ye-wan/</id>
+        <link href="https://SpookerV6.github.io/post/shi-xi-sheng-gong-yu-chuang-bian-ye-wan/">
+        </link>
+        <updated>2022-03-10T07:39:51.000Z</updated>
+        <content type="html"><![CDATA[<p>32层的高度</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾尔登法环-梅琳娜]]></title>
+        <id>https://SpookerV6.github.io/post/ai-er-deng-fa-huan-mei-lin-nuo/</id>
+        <link href="https://SpookerV6.github.io/post/ai-er-deng-fa-huan-mei-lin-nuo/">
+        </link>
+        <updated>2022-03-10T07:32:53.000Z</updated>
+        <content type="html"><![CDATA[<p>见到老板的感觉，害！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾尔登法环-大升降梯]]></title>
+        <id>https://SpookerV6.github.io/post/ai-er-deng-fa-huan-da-sheng-jiang-ti/</id>
+        <link href="https://SpookerV6.github.io/post/ai-er-deng-fa-huan-da-sheng-jiang-ti/">
+        </link>
+        <updated>2022-03-10T07:32:00.000Z</updated>
+        <content type="html"><![CDATA[<p>宏伟壮观</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾尔登法环-魔法学院]]></title>
+        <id>https://SpookerV6.github.io/post/ai-er-deng-fa-huan-mo-fa-xue-yuan/</id>
+        <link href="https://SpookerV6.github.io/post/ai-er-deng-fa-huan-mo-fa-xue-yuan/">
+        </link>
+        <updated>2022-03-10T07:31:19.000Z</updated>
+        <content type="html"><![CDATA[<p>有霍格沃茨的感觉</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾尔登法环-宣传图之地]]></title>
+        <id>https://SpookerV6.github.io/post/ai-er-deng-fa-huan-xuan-chuan-tu-zhi-di/</id>
+        <link href="https://SpookerV6.github.io/post/ai-er-deng-fa-huan-xuan-chuan-tu-zhi-di/">
+        </link>
+        <updated>2022-03-10T07:29:39.000Z</updated>
+        <content type="html"><![CDATA[<p>前有绝境</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾尔登法环-交界地的傍晚]]></title>
+        <id>https://SpookerV6.github.io/post/ai-er-deng-fa-huan-jiao-jie-di-de-bang-wan/</id>
+        <link href="https://SpookerV6.github.io/post/ai-er-deng-fa-huan-jiao-jie-di-de-bang-wan/">
+        </link>
+        <updated>2022-03-10T07:28:40.000Z</updated>
+        <content type="html"><![CDATA[<p>前有绝境</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾尔登法环-小企鹅]]></title>
+        <id>https://SpookerV6.github.io/post/ai-er-deng-fa-huan-xiao-qi-e/</id>
+        <link href="https://SpookerV6.github.io/post/ai-er-deng-fa-huan-xiao-qi-e/">
+        </link>
+        <updated>2022-03-10T07:20:55.000Z</updated>
+        <content type="html"><![CDATA[<p>这里的两只小企鹅很可爱！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾尔登法环-初见小黄金树]]></title>
+        <id>https://SpookerV6.github.io/post/ai-er-deng-fa-huan/</id>
+        <link href="https://SpookerV6.github.io/post/ai-er-deng-fa-huan/">
+        </link>
+        <updated>2022-03-10T07:14:58.000Z</updated>
+        <content type="html"><![CDATA[<p>是小黄金书！</p>
 ]]></content>
     </entry>
 </feed>
